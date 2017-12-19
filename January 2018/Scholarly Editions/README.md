@@ -11,7 +11,7 @@ Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto
 * http://www.oxygenxml.com/download.html
   * Windows users, **download the 32-bit application** 
 * See email sent by mdalmau@indiana.edu on TBD for the License Key 
-* If you need help installing Oxygen, email me so that we can install at the Geisel Library before January 15th. 
+* If you need help installing Oxygen, email me so that we can install at the Geisel Library before January 11th. 
 
 ## Workshop Materials
 * [Presentation Slides](https://) (PDF)
@@ -102,7 +102,7 @@ Participants will:
 * Anna Kijas
   * Senior Digital Scholarship Librarian, Boston College Libraries 
   * Email: kijas@bc.edu
-  * Twitter: @anna_kijas
+  * Twitter: @anna_kijas
 
 
 
